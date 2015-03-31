@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 gem 'coffee-rails', '~> 4.1.0'
 gem 'carrierwave'
+gem 'devise'
 gem 'jbuilder',     '~> 2.0'
 gem 'jquery-rails'
 gem 'rails',        '4.2.1'
