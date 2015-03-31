@@ -11,6 +11,7 @@ gem 'sdoc',         '~> 0.4.0'
 gem 'sqlite3'
 gem 'table_cloth'
 gem 'turbolinks'
+gem 'twitter-bootstrap-rails'
 gem 'uglifier',     '>= 1.3.0'
 
 group :development, :test do
