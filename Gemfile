@@ -10,11 +10,12 @@ gem 'rails',        '4.2.1'
 gem 'sass-rails',   '~> 5.0'
 gem 'sdoc',         '~> 0.4.0'
 gem 'simple_form',  '~> 3.1.0'
-gem 'sqlite3'
+gem 'pg' # stands for postgres
 gem 'table_cloth'
 gem 'turbolinks'
 gem 'twitter-bootstrap-rails'
 gem 'uglifier',     '>= 1.3.0'
+gem 'rails_12factor', group: :production
 
 group :development, :test do
   gem 'byebug'
